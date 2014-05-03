@@ -1,4 +1,4 @@
 restengine
 ==========
 
-Simple rest api framework.
+Simple rest api development framework.
